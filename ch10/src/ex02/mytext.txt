@@ -1,0 +1,1 @@
+Write a program that checks the spelling of all words in a file. It should read each word of a file and check whether it is contained in the word list. A word list is available on most Linux system in the file /usr/share/dict/words. The program should print out all words that it cannot find in the word list.
